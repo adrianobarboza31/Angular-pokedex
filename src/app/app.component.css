@@ -1,0 +1,9 @@
+
+.sfondo {
+  background-image: linear-gradient(to right, #00bfff, #007fff);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
